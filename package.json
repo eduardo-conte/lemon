@@ -1,0 +1,18 @@
+{
+  "name": "lemon",
+  "version": "1.0.0",
+  "description": "Teste Lemon Energia - Eduardo Conte",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "lemon-energy",
+    "test"
+  ],
+  "author": "Eduardo Conte",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
